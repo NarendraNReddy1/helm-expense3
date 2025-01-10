@@ -1,4 +1,5 @@
-.Values.deployment.imageVersion
-.Values.deployment.replicas
+deployment:
+  imageVersion: v1.0
+  replicas: 2
 
 
